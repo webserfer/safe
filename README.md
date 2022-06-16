@@ -2,6 +2,7 @@ Watch list with safety levels for the repos that have been updated since Feb 202
 
 ## Completely safe ##
 * [tmux 3.3a](https://github.com/tmux/tmux)
+* [zsh 5.9] (https://github.com/zsh-users/zsh)
 * [yggdrasil 0.4.3](https://github.com/yggdrasil-network/yggdrasil-go)
 
 ## Suspicious ##
