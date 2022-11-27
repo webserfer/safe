@@ -1,4 +1,4 @@
-Watch list with safety levels for the repos that have been updated since Feb 2022.
+Watch list with safety levels for the some repos that I met on github.
 
 Please don't trust me and always verify this repos yourself.
 
@@ -9,3 +9,4 @@ Please don't trust me and always verify this repos yourself.
 
 ### Suspicious ###
 * [Tasmota](https://github.com/arendst/Tasmota)
+* [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
